@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=myidmm64&theme=calm)](https://github.com/minchae123)
 
-[![myidmm64's github stats](https://github-readme-stats.vercel.app/api?username=myidmm64&show_icons=true&theme=dracula)](https://github.com/minchae123)
-
 <!--
 **myidmm64/myidmm64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
