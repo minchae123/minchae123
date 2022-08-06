@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **minchae123/minchae123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,7 +22,7 @@ Here are some ideas to get you started:
 
 | **종류** | **날짜** | **내용** | **조직** |
 |:--------:|:--------:|:--------:|:--------:|
-| **:mortar_board: 고등학교** | 2022 ~ | 게임개발과 | **경기게임마이스터고** |
+| **:mortar_board: 고등학교** | 2022 ~ | 게임개발과 | **경기게임마이스터고등학교** |
 
 <h2 align="left">🛠️ 툴&스킬</h2>
 
