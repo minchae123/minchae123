@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 
 <h2 align="left">💻 깃허브 정보</h2>
 
-[![streak](https://github-readme-streak-stats.herokuapp.com/?user=myidmm64&theme=calm)](https://github.com/minchae123)
+[![streak](https://github-readme-streak-stats.herokuapp.com/?user=minchae123&theme=calm)](https://github.com/minchae123)
+
+[![bossxz's github stats](https://github-readme-stats.vercel.app/api?username=minchae123&show_icons=true&theme=dracula)](https://github.com/minchae123)
 
 <!--
 **minchae123/minchae123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
