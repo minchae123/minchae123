@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:myidmm64@gmail.com)]
-(mailto:08minchae17@gmail.com.)
+[(mailto:08minchae17@gmail.com)]
 
 [![유튜브](https://img.shields.io/badge/Youtube-red?logo=youtube)][(https://www.youtube.com/channel/UCic-1Jhiz296evQ712Irygw)]
-(https://www.youtube.com/channel/UCic-1Jhiz296evQ712Irygw)
 
 
 ## Portfolio
