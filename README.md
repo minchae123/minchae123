@@ -1,5 +1,5 @@
  <div align=center>
-# HI !! I am Min Chae
+## HI !! I am Min Chae
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minchae123&show_icons=true&theme=tokyonight)
 
