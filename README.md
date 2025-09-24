@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=MINCHAE&fontSize=100)
 
-!(https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&fontAlign=50&section=footer&fontAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&fontAlign=50&section=footer&fontAlignY=60)
 
 
 
